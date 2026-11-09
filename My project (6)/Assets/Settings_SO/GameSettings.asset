@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0860845db12a2074cbf7eec396583595, type: 3}
+  m_Name: GameSettings
+  m_EditorClassIdentifier: Assembly-CSharp::GameSettings
+  uiCanvasPrefab: {fileID: 790893448687536161, guid: 7f265b51f1fabaa4a8c0f58eb4d60764, type: 3}
+  inputManagerPrefab: {fileID: 559462446446136870, guid: 2865146ca64edab479a7105aec9327b4, type: 3}
+  interactionPrefab: {fileID: 3300999902801599629, guid: b330e66159771d943ad6a4c567fe477d, type: 3}
+  inputSettings: {fileID: 11400000, guid: aa0251bc4a0ae0f4782214f39539e58f, type: 2}
+  responseDelay: 0.1

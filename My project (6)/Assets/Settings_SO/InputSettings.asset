@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b87f8676f174a3a4992d524d0c8f28b7, type: 3}
+  m_Name: InputSettings
+  m_EditorClassIdentifier: Assembly-CSharp::InputSettings
+  moveAction: {fileID: 5948325977808607027, guid: 7e3b8931f2945ea458628035b19edd9b, type: 3}
+  turnAction: {fileID: -1361123420856086648, guid: 7e3b8931f2945ea458628035b19edd9b, type: 3}
+  flyUpAction: {fileID: -9054536478285704180, guid: 7e3b8931f2945ea458628035b19edd9b, type: 3}
+  flyDownAction: {fileID: -9189202373687969754, guid: 7e3b8931f2945ea458628035b19edd9b, type: 3}
